@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+}
+
+.menu-princial{
+    position: relative;
+    width: 100%;
+    height: 8vh;
+    background-color: #EDF6F9;
+}
+.menu-contenedor-botones{
+    position: relative;
+    top: 2vh;
+    left: 38%;
+    width: fit-content;
+}
+.botones-menu{
+    width: 8vw;
+    height: 4vh;
+    border: none;
+    background-color: #EDF6F9;
+}
+
+.inicio{
+    position: absolute;
+    width: 100%;
+    height: 92vh;
+    background-color: #006d77;
+}
+.inicio-texto{
+    position: relative;
+    top: 11vh;
+    left: 6vw;
+    width: 53vw;
+}
+.inicio-texto-p{
+    color: #EDF6F9;
+    font-size: 9vh;
+}
+.inicio img{
+    position: absolute;
+    bottom: 4vh;
+    left: 59vw;
+}
+
+.nosotros{
+    position: absolute;
+    top: 100vh;
+    width: 100%;
+    height: 87vh;
+    background-color: #EDF6F9;
+}
+.nosotros-contenedor-texto{
+    position: relative;
+    text-align: center;
+    left: 38vw;
+    top: 7vh;
+    width: 24vw;
+}
+.nosotros-contenedor-texto h2{
+    font-size: 49pt;
+}
+.nosotros-contenedor-texto p{
+    font-size: 18pt;
+}
+
+.nosotros-contenedor-imagenes{
+    position: relative;
+    width: fit-content;
+    top: 10vh;
+    left: 24vw;
+}
+.nosotros-contenedor-imagenes img{
+    width: 318px;
+}
+#fotolugar{
+    width: 349px;
+}
